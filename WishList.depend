@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1697223099 source:c:\users\merli\onedrive\escritorio\wishlist\grafica.cpp
+	"Grafica.h"
+
+1697223099 c:\users\merli\onedrive\escritorio\wishlist\grafica.h
+	"stdio.h"
+	"Logica.h"
+
+1697223215 source:c:\users\merli\onedrive\escritorio\wishlist\main.cpp
+	"Grafica.h"
+	"Persistencia.h"
+	"stdlib.h"
+
+1696879929 c:\users\merli\onedrive\escritorio\wishlist\videojuego.h
+	"String.h"
+
+1696878972 c:\users\merli\onedrive\escritorio\wishlist\string.h
+	"Boolean.h"
+	"stdio.h"
+
+1696878899 c:\users\merli\onedrive\escritorio\wishlist\boolean.h
+
+1696878972 source:c:\users\merli\onedrive\escritorio\wishlist\string.cpp
+	"String.h"
+
+1697223099 source:c:\users\merli\onedrive\escritorio\wishlist\logica.cpp
+	"Logica.h"
+
+1697223099 c:\users\merli\onedrive\escritorio\wishlist\logica.h
+	"Videojuegos.h"
+
+1697222715 c:\users\merli\onedrive\escritorio\wishlist\videojuegos.h
+	"Videojuego.h"
+	"Iterador.h"
+	"Queue.h"
+
+1697222645 source:c:\users\merli\onedrive\escritorio\wishlist\videojuego.cpp
+	"Videojuego.h"
+
+1697222758 source:c:\users\merli\onedrive\escritorio\wishlist\videojuegos.cpp
+	"Videojuegos.h"
+
+1696884715 c:\users\merli\onedrive\escritorio\wishlist\persistencia.h
+	"Logica.h"
+
+1696893679 source:c:\users\merli\onedrive\escritorio\wishlist\persistencia.cpp
+	"Persistencia.h"
+
+1696894593 source:c:\users\merli\onedrive\escritorio\wishlist\iterador.cpp
+	"Iterador.h"
+
+1696894279 c:\users\merli\onedrive\escritorio\wishlist\iterador.h
+	"Videojuego.h"
+
+1697221474 c:\users\merli\onedrive\escritorio\wishlist\queue.h
+	"Videojuego.h"
+
+1697221474 source:c:\users\merli\onedrive\escritorio\wishlist\queue.cpp
+	"Queue.h"
+
