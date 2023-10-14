@@ -3,7 +3,7 @@
 void mostrarMenuPrincipal(int &op){
     printf("\n\n(1)- Agregar videojuego.");
     printf("\n(2)- Eliminar videojuego.");
-    printf("\n(3)- Listar por consola.");
+    printf("\n(3)- Listar wish list.");
     printf("\n(4)- Salir del progrma.");
     printf("\n\nIngrese una opcion: ");
     scanf("%d",&op);
